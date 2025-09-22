@@ -1,4 +1,4 @@
-day ="tuesday"
+day ="saturday"
 match day.lower :
     case "Monday":
      print("It's the start of the work week")
